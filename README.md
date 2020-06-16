@@ -3,7 +3,7 @@ A place to jot down processes that others could find useful.
 
 ## Ideas:
 
-### Adtracking via images
+### Ad-tracking and analytics
 * Basically a walk through of Charles Leifer's Analytics App.
 * ref: https://charlesleifer.com/blog/saturday-morning-hacks-building-an-analytics-app-with-flask/
 
