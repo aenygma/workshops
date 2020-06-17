@@ -1,7 +1,7 @@
 # Workshops
 A place to jot down processes that others could find useful.
 
-## Ideas:
+## Ideas - SW:
 
 ### Ad-tracking and analytics
 * Basically a walk through of Charles Leifer's Analytics App.
@@ -33,10 +33,6 @@ A place to jot down processes that others could find useful.
    * Learn how to pick proper actions (or endpoints)
 
 
-### Irrigation system
-* More HW based
-
-
 ### Reddit API stuff 
 
 
@@ -45,7 +41,28 @@ A place to jot down processes that others could find useful.
 
 ### Some Twilio project
 * Wake up call service - receive a call at a given time to wake up/go do something
- * 
+ *
+ 
+## Ideas - HW
+
+### Irrigation system
+* More HW based
+
+### ESP Power Relay
+* Something with Controlling 
+
+* ref: https://randomnerdtutorials.com/esp8266-remote-controlled-sockets/
+
+### ESP Webserver
+* https://randomnerdtutorials.com/esp8266-web-server/
+* maybe return some data via server?
+* 
+
+## ESP DeAuther
+**Goal**: Being a dick
+
+* How WiFi DeAuth attack can work
+ 
 
 
 ## Tools to learn:
