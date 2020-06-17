@@ -48,6 +48,11 @@ A place to jot down processes that others could find useful.
 ### Irrigation system
 * More HW based
 
+### Exploit: USB signal tapper
+* Tap USB keystrokes/mouse/data to send via WiFi to remote somewhere
+* SSID broadcast: "hp printer" >:)
+* Useful for sending raw data over sockets
+
 ### ESP Power Relay
 * Something with Controlling 
 
