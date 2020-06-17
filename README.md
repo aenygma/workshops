@@ -46,3 +46,7 @@ A place to jot down processes that others could find useful.
 ### Some Twilio project
 
 
+## Tools to learn:
+* OpenAuth
+* API usages
+* python requests
