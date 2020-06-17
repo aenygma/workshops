@@ -44,9 +44,14 @@ A place to jot down processes that others could find useful.
 
 
 ### Some Twilio project
+* Wake up call service - receive a call at a given time to wake up/go do something
+ * 
 
 
 ## Tools to learn:
 * OpenAuth
 * API usages
 * python requests
+* Bash/CLI cowboy-ing
+* CodeReview
+* Reading DDD/RFCs
