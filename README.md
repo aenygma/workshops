@@ -41,8 +41,9 @@ A place to jot down processes that others could find useful.
 
 ### Some Twilio project
 * Wake up call service - receive a call at a given time to wake up/go do something
- *
- 
+
+### Some IFTTT project
+
 ## Ideas - HW
 
 ### Irrigation system
