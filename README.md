@@ -21,8 +21,20 @@ A place to jot down processes that others could find useful.
     * How ML/Embedding work '' 
         * bc possibly need to have a store of embeddings
 
+### SMUD api
+* Given my username/password, i should be able to get my SMUD data
+* Should be a local python api, no sending creds anywhere except via HTTPS
+
+**Goal**: Create an API service from a static/rendered html page
+
+**Learning Goals**
+   * Learn challenges of creating an API
+   * Learn how design should work (mapping urls to objects)
+   * Learn how to pick proper actions (or endpoints)
+
 
 ### Irrigation system
+* More HW based
 
 
 ### Reddit API stuff 
