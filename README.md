@@ -7,6 +7,10 @@ A place to jot down processes that others could find useful.
 * Basically a walk through of Charles Leifer's Analytics App.
 * ref: https://charlesleifer.com/blog/saturday-morning-hacks-building-an-analytics-app-with-flask/
 
+### something with OAUTH
+* **goal**: how it works
+* can be anything to secure your app, ?? (need to brainstorm)
+
 ### libfuse module 
 * redo `locate`
 * build a device/fs where you can R/W files and it keeps track of changes
