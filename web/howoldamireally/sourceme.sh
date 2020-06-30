@@ -34,7 +34,7 @@ s(){
 # GIT
 #
 
-# git add/checkout/push acommit
+# git add/checkout/push a commit
 co(){
 	git add app.py && git commit -m "$(m)" && git push
 }
@@ -44,6 +44,7 @@ co(){
 #
 # semantic sugar; hi!
 hi(){
+    [[ "$VIRTUAL_ENV" == "" ]] && echo -e "> No Virtual Environment found.\n> Setting it up...\n" && setup_venv
     source venv/bin/activate
 }
 
@@ -54,6 +55,7 @@ xo(){
     unsauce
 }
 
+# cuz its the opposite of sauce
 unsauce(){
     unset co
     unset s
