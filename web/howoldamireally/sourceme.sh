@@ -7,7 +7,7 @@
 
 # Setup Virtual Environment
 setup_venv(){
-	python3 -menv venv
+	python3 -mvenv venv --system-site-packages
 }
 
 # Virtual Environment activate
