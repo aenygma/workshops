@@ -1,32 +1,40 @@
 #
 # This is a helper file
 
-lint(){
-	pylint *py
-}
+#
+#  VENV 
+#
 
-serve(){
-	python app.py
-}
-
-# git checkout commit
-co(){
-	git add app.py && git commit -m "$(m)" && git push
-}
-
-##lame stuff
-
-# TODO replace with a bash source file
+# Setup Virtual Environment
 setup_venv(){
 	python3 -menv venv
 }
 
-#venv activate 
+# Virtual Environment activate 
 a(){
 	source venv/bin/activate
 }
 
+# Virtual Environment deactivate 
 d(){
     deactivate
 }
 
+# Lint files
+l(){
+	pylint *py
+}
+
+# Serve. for start debug server
+s(){
+	python app.py
+}
+
+#
+# GIT
+#
+
+# git add/checkout/push acommit
+co(){
+	git add app.py && git commit -m "$(m)" && git push
+}
