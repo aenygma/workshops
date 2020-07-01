@@ -44,8 +44,9 @@ co(){
 #
 # semantic sugar; hi!
 hi(){
-    [[ "$VIRTUAL_ENV" == "" ]] && echo -e "> No Virtual Environment found.\n> Setting it up...\n" && setup_venv
+    [ ! -d $VENV_DIR ] && echo -e "> No Virtual Environment found.\n> Setting it up...\n" && setup_venv
     source venv/bin/activate
+    echo $HI_MSG
 }
 
 # semantic sugar; bye!
@@ -53,6 +54,7 @@ xo(){
     # deactivate iff in Virtual Environment
     [[ "$VIRTUAL_ENV" != "" ]] && deactivate
     unsauce
+    echo $BYE_MSG
 }
 
 # cuz its the opposite of sauce
@@ -62,7 +64,14 @@ unsauce(){
     unset l
     unset d
     unset a
-    unset setup_venv
+#    unset setup_venv
 #    unset hi
     unset xo
 }
+
+### CONSTANTS
+HI_MSG="> hay! how you doin'?"
+BYE_MSG="> byeeee!"
+
+BASE_DIR="$(pwd)"
+VENV_DIR="$BASE_DIR/venv"
