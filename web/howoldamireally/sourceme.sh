@@ -1,6 +1,17 @@
 #
 # This is a helper file
 
+
+
+# Reqs
+_inIt(){
+	[ -z "${PYTHON}" ] && echo "Python3 not found. exit." && _exIt
+}
+
+_exIt(){
+    kill -INT $$;
+}
+
 #
 #  VENV
 #
@@ -75,3 +86,8 @@ BYE_MSG="> byeeee!"
 
 BASE_DIR="$(pwd)"
 VENV_DIR="$BASE_DIR/venv"
+
+PYTHON=`which python3`
+
+### Run Lola Run!
+_inIt
