@@ -12,3 +12,7 @@ jamesdeanpic
 (this is not the right word)
 * `source sourceme.sh` or `. sourceme.sh`
     This file contains helper bash command
+
+##ref:
+* https://i.pinimg.com/564x/95/37/98/953798e45299df6e41b0b868a5f326f7.jpg
+* https://www.azquotes.com/picture-quotes/quote-live-fast-die-young-leave-a-good-looking-corpse-james-dean-47-99-73.jpg
