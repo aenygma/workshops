@@ -93,3 +93,10 @@ A place to jot down processes that others could find useful.
 * Bash/CLI cowboy-ing
 * CodeReview
 * Reading DDD/RFCs
+
+
+# Concepts
+* Abstractions
+* Abstraction Barrier
+
+* Enclave
