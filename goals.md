@@ -1,8 +1,8 @@
-The larger goal here is simple, but hard to achieve.
+The larger goal here is simple, but hard to achieve: **Actually learn and incorporate things**
 
 I'll need help, so if this seems like something you'd be interested in, drop a line.
 
-Personally, I'm sick of talking to people in this industry who don't know how things work fundamentally and what the impacts are. I'm no Oracle and I also include myself in this group.
+1) Personally, I'm sick of talking to people in this industry who don't know how things work fundamentally and what the impacts are. I'm no Oracle and I also include myself in this group.
 
 2) There is a staggering lack of imagination in this industry. What Heidegger would say "meditative thinking" or bringing these concepts closer to one's thinking and understanding them natively.  
 
