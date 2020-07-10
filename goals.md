@@ -1,4 +1,4 @@
-The larger goal here is simple, but hard to achieve: **Actually learn and _incorporate_ things**
+The larger goal here is simple, but hard to achieve: **_Actually learn and_ in-corp-orate _things_**
 
 I'll need help, so if this seems like something you'd be interested in, drop a line.
 
