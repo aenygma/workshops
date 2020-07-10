@@ -1,5 +1,6 @@
 # Workshops
-A place to jot down processes that others could find useful.
+A place to jot down processes that others could find useful.  
+Wiki - https://github.com/aenygma/workshops/wiki
 
 ## Ideas - SW:
 
