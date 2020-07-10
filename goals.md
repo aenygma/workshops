@@ -8,7 +8,7 @@ I'll need help, so if this seems like something you'd be interested in, drop a l
 {
   * All these concepts are is an instantiated form of a general idea. 
   * Traditional Computer Science concepts are not here to reveal some great secret of computing.   
-  * In fact, they are to be read as an apology, of trying to give a compromised form to something far more interesting, elegant and beautiful.  
+  * In fact, they are to be read as an apology, of giving a compromised form to something far more interesting, elegant and beautiful.  ie they are pointing to something far, far more interesting.  
 }  
 
 3) To drive at the deeper idea, that explicates all others.
