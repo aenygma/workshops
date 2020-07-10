@@ -94,3 +94,10 @@ Wiki - https://github.com/aenygma/workshops/wiki
 * Bash/CLI cowboy-ing
 * CodeReview
 * Reading DDD/RFCs
+
+
+# Concepts
+* Abstractions
+* Abstraction Barrier
+
+* Enclave
